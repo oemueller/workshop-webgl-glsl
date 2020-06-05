@@ -2,7 +2,7 @@
 
 *A masterclass workshop about advanced graphics programming techniques with WebGL and GLSL*
 
-This repo contains the source code for my Frontend Masters *Advanced Creative Coding: WebGL and Shaders* workshop.
+This repo contains the source code for my Frontend Masters *Advanced Creative Coding: WebGL and Shaders* [workshop](https://frontendmasters.com/courses/webgl-shaders).
 
 ## Contents
 
